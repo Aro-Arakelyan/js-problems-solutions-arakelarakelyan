@@ -1,0 +1,22 @@
+{
+  "name": "js-problems-solutions-arakelarakelyan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aro-Arakelyan/js-problems-solutions-arakelarakelyan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aro-Arakelyan/js-problems-solutions-arakelarakelyan/issues"
+  },
+  "homepage": "https://github.com/Aro-Arakelyan/js-problems-solutions-arakelarakelyan#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
